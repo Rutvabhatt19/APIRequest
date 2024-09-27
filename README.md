@@ -33,9 +33,9 @@ https://github.com/user-attachments/assets/6f361993-6f12-4e3a-9d0b-47612d7fcb5c
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/6f361993-6f12-4e3a-9d0b-47612d7fcb5c" alt="Home Screen" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/6f361993-6f12-4e3a-9d0b-47612d7fcb5c" alt="Category View" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/6f361993-6f12-4e3a-9d0b-47612d7fcb5c" alt="News Detail" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/ec5d7e3c-1062-43de-9f29-a552682ede75" alt="Home Screen" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/c39163ee-d0e8-4455-a929-405b1e4eadc7" alt="Category View" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/e9fa84d8-0ce7-4c2a-993b-7bc6e22aea80" alt="News Detail" width="250"></td>
   </tr>
   <tr>
     <td align="center">Home Screen</td>
