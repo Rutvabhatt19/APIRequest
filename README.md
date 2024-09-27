@@ -41,7 +41,23 @@ https://github.com/user-attachments/assets/6f361993-6f12-4e3a-9d0b-47612d7fcb5c
     <td align="center">News Detail</td>
   </tr>
 </table>
+<hr>
+<h2>🎯 Usage</h2>
+<p>Once installed, users can:</p>
+<ul>
+    <li>Browse and select news categories.</li>
+    <li>View articles related to the selected category.</li>
+    <li>Read detailed news articles.</li>
+</ul>
 
+<hr>
 
+<h2>🛠️ Technologies Used</h2>
+<ul>
+    <li><strong>Flutter</strong>: For UI development</li>
+    <li><strong>HTTP & DIO</strong>: For making API requests</li>
+    <li><strong>Provider</strong>: For managing app state</li>
+</ul>
 
+<hr>
 
