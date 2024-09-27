@@ -3,7 +3,6 @@
 
 <img src="https://img.shields.io/badge/Flutter-v2.0%2B-blue?style=flat&logo=flutter" alt="Flutter">
 <img src="https://img.shields.io/badge/Dart-v2.0-blue?style=flat&logo=dart" alt="Dart">
-<img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 
 <h2>🚀 Project Overview</h2>
 <p>
@@ -28,6 +27,9 @@ https://github.com/user-attachments/assets/6f361993-6f12-4e3a-9d0b-47612d7fcb5c
 
 <h2>📱 Screenshots</h2>
 <p>Take a look at the UI:</p>
+![WhatsApp Image 2024-09-27 at 11 52 30 (2)](https://github.com/user-attachments/assets/ec5d7e3c-1062-43de-9f29-a552682ede75)
+![WhatsApp Image 2024-09-27 at 11 52 30 (1)](https://github.com/user-attachments/assets/c39163ee-d0e8-4455-a929-405b1e4eadc7)
+![WhatsApp Image 2024-09-27 at 11 52 30](https://github.com/user-attachments/assets/e9fa84d8-0ce7-4c2a-993b-7bc6e22aea80)
 
 <table>
   <tr>
